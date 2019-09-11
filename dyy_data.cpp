@@ -55,5 +55,4 @@ void Data::loadPoint(std::string data_file,  Point_V &points)
     in.close();
 }
 
-
 }//dyy

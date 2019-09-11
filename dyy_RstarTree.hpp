@@ -66,6 +66,7 @@ public:
 class RTreeNode;/*cliam class*/
 typedef LeafNodeEntry* Entry_P;
 typedef std::vector<Entry_P> Entry_P_V;
+typedef std::vector<LeafNodeEntry> Entry_V;
 typedef RTreeNode* Node_P;
 typedef std::vector<Node_P> Node_P_V;
 typedef std::list<Node_P> Node_P_L;
